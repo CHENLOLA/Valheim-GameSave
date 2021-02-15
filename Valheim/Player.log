@@ -1,0 +1,4175 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.16f1 (e05b6e02d63e)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon Pro 5500M (ID=0x7340)
+    Vendor:   
+    VRAM:     8150 MB
+    Driver:   27.20.11036.1002
+Begin MonoManager ReloadAssembly
+- Completed reload, in  1.829 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 13.275800 ms
+02/15/2021 14:27:58: Starting to load scene:start
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't create a Convex Mesh from source mesh "RearBig" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 2f70 -> priority: 1 
+  Thread -> id: 24f0 -> priority: 1 
+  Thread -> id: f60 -> priority: 1 
+  Thread -> id: 25f8 -> priority: 1 
+  Thread -> id: e3c -> priority: 1 
+  Thread -> id: 1138 -> priority: 1 
+  Thread -> id: 3af4 -> priority: 1 
+  Thread -> id: 3404 -> priority: 1 
+UnloadTime: 9.350100 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
+(Filename:  Line: 509)
+
+Initializing Google Analytics 0.2. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Using mountain distance: 1000
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Render threading mode:MultiThreaded
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Using environment steamid 892970
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Using steam APPID:892970
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Steam initialized, persona:CHENLOLA
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Missing audio clip in music respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Checking for installed DLCs
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: DLC:beta installed:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:18: Builder started
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:20: Loaded localization English
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:20: Loaded localization Chinese
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:20: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:20: loading chenlola
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:20: Data size:12589421  hash size:64
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:20: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 87034.
+Total: 82.554000 ms (FindLiveObjects: 4.895900 ms CreateObjectMapping: 12.256900 ms MarkObjects: 65.021300 ms  DeleteObjects: 0.379200 ms)
+
+02/15/2021 14:28:24: UI Group status changed Menu = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:29: show character selection
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:28:49: OnCharacterStart
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.175400 ms
+02/15/2021 14:29:00: Loading player profile chenlola
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:00: Data size:12589421  hash size:64
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: Zonesystem Awake 2269
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: DungeonDB Awake 2269
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: Steam initialized, persona:CHENLOLA
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: Initializing world generator seed:C88f0NXGi3 ( 769048932 )   menu:False  worldgen version:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: Using mountain distance: 1000
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: Found 586 mountain points
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: Remaining mountains:72
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: Calc time 42.8853 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:01: Found 8115 lake points
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:04: Remaining lakes:116
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:04: Calc time 3778.0467 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:04: Rivers:148
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:05: River buckets 14120
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:05: River render time 448.7722 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:05: River Calc time 468.7464 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:07: River buckets 22896
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:07: River render time 762.7383 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:07: Placed 1858 streams
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:07: Stream Calc time 1823.9385 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:07: Load world 999999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:07: Loading 126221 zdos , my id -1058590509 data version:26
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Loaded 100000 dead zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removed 0 OLD generated ZDOS
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Loaded 7081 locations
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Build settings:10
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing -1233507428
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing 1883198027
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing 868418350
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing -535269195
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing 1547815568
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing -359949137
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing 319464002
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing 1225882809
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Removing 404029124
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Audioman already exist, destroying self
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: Checking for installed DLCs
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:08: DLC:beta installed:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 495 unused Assets to reduce memory usage. Loaded Objects now: 86937.
+Total: 180.005000 ms (FindLiveObjects: 4.779300 ms CreateObjectMapping: 9.552000 ms MarkObjects: 158.642000 ms  DeleteObjects: 7.030900 ms)
+
+02/15/2021 14:29:12: Zonesystem Start 2269
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:13: DungeonDB Start 2269
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:13: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:32: tip:$loadscreen_tip17
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:41: Spawned after 8.019994
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:41: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:41: Minimap: Adding unique location (-3.3, 79.3, 6.6)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:29:43: Resumed music meadows at 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:07: Right back item SwordBronze
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:07: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:07: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:07: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:12: Queue unlock msg:$msg_newitem:$item_bow_finewood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:12: Setting selected recipe 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:16: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:16: Setting selected recipe 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:18: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:18: Setting selected recipe 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:20: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:21: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:21: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:21: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:22: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:23: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:23: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:23: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:24: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:24: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:25: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:25: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:26: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:26: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:29: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:29: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:30:29: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:01: Right back item SwordBronze
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:01: Setting selected recipe 10
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:01: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:01: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:01: Setting selected recipe 10
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:01: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:01: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:08: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:08: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:08: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:08: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:09: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:09: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:09: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:09: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:11: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:11: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:11: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:11: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:12: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:12: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:12: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:12: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:13: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:13: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:14: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:14: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:15: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:15: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:15: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:15: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:16: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:18: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:18: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:18: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:18: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:20: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:20: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:20: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:20: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:21: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:21: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:21: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:21: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:22: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:22: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:23: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:23: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:23: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:23: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:24: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:24: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:24: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:24: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:24: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:24: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:24: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:24: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:26: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:26: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:26: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:26: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:28: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:28: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:28: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:28: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:29: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:29: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:29: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:29: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:30: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:44: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:44: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:44: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:55: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:55: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:31:55: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:32:19: Spawned Deer x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:15: Stoped music meadows at 2276805
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:17: Setting selected recipe 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:17: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:17: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:19: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:48: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:52: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:52: Setting selected recipe 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:52: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:52: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:54: UI Group status changed root = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:54: UI Group status changed Player = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:56: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:56: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:57: Added to stack4 37
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:57: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:34:58: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:01: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:10: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:38: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:53: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:53: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:53: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:55: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:55: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:55: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:55: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:57: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:57: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:35:57: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:03: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:10: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:14: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:28: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:28: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:28: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:31: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:31: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:31: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:31: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:32: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:32: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:32: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:37: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:37: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:37: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:37: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:48: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:48: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:48: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:36:58: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:05: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:05: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:05: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:12: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:12: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:12: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:12: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:27: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:27: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:27: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:29: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:29: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:29: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:30: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:30: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:30: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:38: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:40: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:40: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:40: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:47: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:47: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:37:47: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:14: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:19: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:23: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:28: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:39: Placed woodwall
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:41: Placed woodwall
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:44: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:44: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:44: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:47: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:47: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:47: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:47: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:50: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:50: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:50: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:38:50: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:39:01: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:39:04: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7237 unused Assets to reduce memory usage. Loaded Objects now: 1345347.
+Total: 1144.946200 ms (FindLiveObjects: 222.741100 ms CreateObjectMapping: 43.954300 ms MarkObjects: 844.674500 ms  DeleteObjects: 33.575300 ms)
+
+02/15/2021 14:39:49: Stoped music home at 25401
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:40:09: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:40:12: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:40:52: Resumed music home at 25401
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:40:52: Stoped music home at 40453
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:41:08: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:41:09: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:41:19: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:12: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:25: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:32: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:37: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:37: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:37: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:43: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:43: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:43: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:43: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:49: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:49: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:49: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:42:56: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:43:02: Placed woodwall
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:43:07: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:43:58: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:44:06: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:44:13: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:44:13: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:44:13: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:44:52: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:44:52: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:44:52: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:44:52: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:45:24: Placed wood_stepladder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:45:24: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:45:24: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:45:24: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:45:33: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:45:33: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:45:33: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:45:55: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:00: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:00: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:00: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:17: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:17: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:17: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:30: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:48: Has no creator
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:46:48: exporeusre check 1  True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:47:21: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:47:37: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:47:42: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:47:52: Placed woodwall
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:48:01: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:48:09: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:48:22: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:48:25: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:48:33: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:49:24: Disabling jump_trigger  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:49:24: Disabling jump_trigger (1)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:49:24: Disabling jump_trigger (2)  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 12300 unused Assets to reduce memory usage. Loaded Objects now: 1394385.
+Total: 1328.600700 ms (FindLiveObjects: 254.891200 ms CreateObjectMapping: 48.816400 ms MarkObjects: 965.038500 ms  DeleteObjects: 59.853900 ms)
+
+02/15/2021 14:49:36: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:49:56: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:50:00: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:50:08: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:50:39: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:50:48: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:51:25: Placed wood_wall_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:51:33: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:51:37: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:51:57: Placed wood_wall_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:52:09: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:52:16: Placed wood_beam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:52:22: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:52:32: Placed wood_wall_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:52:40: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:52:48: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:52:49: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:53:03: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:53:14: Placed wood_pole2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:53:26: Placed wood_pole
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:53:59: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:53:59: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:53:59: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:07: Stoped music meadows at 7826653
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:07: Resumed music meadows at 7826653
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:13: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:13: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:13: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:13: Stoped music meadows at 8083491
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:16: Stoped music home at 100665
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:16: Resumed music meadows at 8083491
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:17: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:17: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:17: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:17: Stoped music meadows at 8158754
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:17: Resumed music home at 100665
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:20: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:20: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:20: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:20: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:20: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:22: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:22: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:23: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:23: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:24: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:24: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:24: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:24: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:24: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:25: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:25: Setting selected recipe 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:26: Setting selected recipe 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:30: Setting selected recipe 15
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:33: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:33: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:33: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:36: Stoped music home at 901285
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:36: Resumed music meadows at 8158754
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:38: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:42: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:45: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:58: Stoped music meadows at 9150357
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:58: Resumed music home at 901285
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:58: Stoped music home at 904107
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:54:58: Resumed music meadows at 9150357
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:02: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:02: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:02: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:05: Setting selected recipe 10
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:11: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:11: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:11: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:11: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:13: Added to stack24 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:13: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:15: Added to stack16 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:15: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:16: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:16: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:16: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:16: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:18: Added to stack32 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:18: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:22: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:22: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:24: Added to stack7 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:24: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:32: Stoped music meadows at 910899
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:32: Resumed music meadows at 910899
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:41: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:42: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:42: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:45: Stoped music meadows at 1481964
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:45: Resumed music home at 904107
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:47: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:47: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:47: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:47: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:49: Added to stack2 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:49: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:51: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:55: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:55: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:55: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:55:55: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:03: Stoped music home at 1717898
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:03: Resumed music meadows at 1481964
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:10: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:10: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:10: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:17: Stoped music meadows at 2108536
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:17: Resumed music home at 1717898
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:19: Stoped music home at 1804451
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:19: Resumed music meadows at 2108536
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:46: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:47: Current res 1536x960     1536x960
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:47: UI Group status changed MenuRoot = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:51: UI Group status changed Controls = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:57: Current res 1536x960     1536x960
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:56:57: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:16: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:16: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:16: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:18: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:19: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:19: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:21: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:27: Right back item SwordBronze
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:27: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:27: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:27: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:28: Stoped music meadows at 5143556
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:28: Resumed music home at 1804451
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:30: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:31: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:31: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:32: Stoped music home at 1972854
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:32: Resumed music meadows at 5143556
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:33: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:33: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:33: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:33: Stoped music meadows at 5197181
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:33: Resumed music home at 1972854
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:36: Setting selected recipe 8
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:39: Setting selected recipe 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:47: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:47: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:47: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:50: Stoped music home at 2693533
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:50: Resumed music meadows at 5197181
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:52: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:52: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:52: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:57: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:57: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:57: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:57: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:58: Stoped music meadows at 5535868
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:57:58: Resumed music home at 2693533
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:02: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:05: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:05: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:06: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:06: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:07: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:07: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:07: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:07: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:12: Stoped music home at 3314460
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:12: Resumed music meadows at 5535868
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:58:45: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:59:15: Spawned Boar x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:59:15: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:59:16: Done fading color
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+02/15/2021 14:59:37: clone 471
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 4318 unused Assets to reduce memory usage. Loaded Objects now: 1279468.
+Total: 1224.744600 ms (FindLiveObjects: 237.775900 ms CreateObjectMapping: 49.769700 ms MarkObjects: 911.695200 ms  DeleteObjects: 25.502700 ms)
+
+02/15/2021 14:59:39: Saved 126220 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 14:59:39: World saved ( 1870.9924ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:05: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:05: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:05: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:05: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:05: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:05: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:10: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:10: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:10: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:17: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:17: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:17: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:44: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:44: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:44: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:00:44: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:00: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:00: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:00: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:16: Spawned Fish2 x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:38: Right back item KnifeCopper
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:58: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:58: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:58: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:59: Drop item $item_flint
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:59: drop all 1  1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:02:59: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:02: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:06: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:26: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:26: Dungeon loaded 11
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:26: Dungeon load time 109.7073 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:27: Spawned Boar x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:27: Spawned Fish3 x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:27: Spawned Fish3 x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:27: Force generaeting hmap (-192.0, 0.0, 576.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:28: Force generaeting hmap (-192.0, 0.0, 640.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:41: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:41: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:41: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:41: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:41: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:41: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:41: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:03:41: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:04:19: Stoped music meadows at 2334464
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:05:21: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:05:21: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:05:21: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:05:23: Added to stack20 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:05:24: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:05:45: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:05:45: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:05:45: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:20: Im still nto the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:20: Im finally the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:35: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:35: Dungeon loaded 11
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:35: Dungeon load time 136.2119 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:36: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:36: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:36: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:36: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:06:56: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:14: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:14: Dungeon loaded 24
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:14: Dungeon load time 33.9095 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:15: Spawned Boar x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:15: Spawned Greydwarf_Elite x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:15: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:15: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:17: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:07:52: Stoped music blackforest at 173107
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:08: Resumed music blackforest at 173107
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:22: hit mine rock 19
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:24: hit mine rock 19
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:25: hit mine rock 19
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:27: hit mine rock 19
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:28: hit mine rock 19
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:31: hit mine rock 19
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:31: Suport time 12.20703
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:34: hit mine rock 125
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:36: hit mine rock 125
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:39: hit mine rock 125
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:41: hit mine rock 54
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:43: hit mine rock 125
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:46: hit mine rock 125
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:48: hit mine rock 125
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:48: Suport time 10.25391
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:49: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:51: hit mine rock 54
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:53: hit mine rock 54
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:55: hit mine rock 54
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:08:57: hit mine rock 54
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:00: hit mine rock 54
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:04: hit mine rock 54
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:06: hit mine rock 54
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:06: Suport time 13.42773
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:10: hit mine rock 91
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:11: hit mine rock 91
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:13: hit mine rock 91
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:15: hit mine rock 91
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:25: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:33: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1198 unused Assets to reduce memory usage. Loaded Objects now: 1314745.
+Total: 1388.178000 ms (FindLiveObjects: 266.113300 ms CreateObjectMapping: 51.546100 ms MarkObjects: 1062.948100 ms  DeleteObjects: 7.569500 ms)
+
+02/15/2021 15:09:40: Stoped music blackforest at 4225132
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:09:59: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:06: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:16: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:16: Local player destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:16: tip:$loadscreen_tip14
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:25: Found bed at custom spawn point
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:25: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:27: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:27: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:39: Is mine
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:39: is current spawnpoint
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:39: exporeusre check 1  True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:39: Is mine
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:39: is current spawnpoint
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:39: exporeusre check 1  True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:40: Is mine
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:40: is current spawnpoint
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:10:40: exporeusre check 1  True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:11:13: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:11:15: Done fading color
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:11:27: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:11:38: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:11:57: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:12:13: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:12:58: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:13:53: Spawned Seagal x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:13:58: Spawned Boar x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:13:58: Spawned Neck x 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:13:58: Spawned Neck x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:16: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:16: Dungeon loaded 11
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:16: Dungeon load time 99.7342 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:26: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:26: Dungeon loaded 24
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:26: Dungeon load time 24.9344 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:38: Grave should fit in inventory, loot all
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:38: Player -1058590509 wants to takeall from Player_tombstone(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:40: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:40: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:40: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:45: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:46: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:46: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:49: Added to stack20 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:49: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:51: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:51: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:51: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:53: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:14:53: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:15:01: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:36: hit mine rock 91
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:38: hit mine rock 91
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:40: hit mine rock 91
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:40: Suport time 14.4043
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:42: hit mine rock 43
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:44: hit mine rock 43
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:44: Stoped music meadows at 7398451
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:45: hit mine rock 43
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:47: hit mine rock 43
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:48: hit mine rock 43
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:50: hit mine rock 43
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:52: hit mine rock 77
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:54: hit mine rock 77
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:55: hit mine rock 77
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:57: hit mine rock 77
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:16:59: hit mine rock 77
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:00: hit mine rock 77
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:01: Suport time 14.16016
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:03: hit mine rock 43
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:03: Suport time 13.91602
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:03: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:03: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:03: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:06: hit mine rock 71
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:07: hit mine rock 71
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:09: hit mine rock 71
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:11: hit mine rock 71
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:12: hit mine rock 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:14: hit mine rock 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:16: hit mine rock 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:19: hit mine rock 90
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:21: hit mine rock 90
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:24: hit mine rock 90
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:41: hit mine rock 90
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:43: hit mine rock 90
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:43: Suport time 14.16016
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:44: hit mine rock 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:17:46: hit mine rock 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:18:24: hit mine rock 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:18:24: Suport time 14.16016
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:18:25: hit mine rock 71
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:18:26: hit mine rock 71
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:18:26: Suport time 13.91602
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:18:29: hit mine rock 28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:18:31: hit mine rock 28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:18:32: hit mine rock 28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1197 unused Assets to reduce memory usage. Loaded Objects now: 1312708.
+Total: 1404.849100 ms (FindLiveObjects: 288.420800 ms CreateObjectMapping: 51.841900 ms MarkObjects: 1056.991700 ms  DeleteObjects: 7.593600 ms)
+
+02/15/2021 15:19:49: hit mine rock 28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:19:50: hit mine rock 28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:19:51: hit mine rock 28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:19:53: hit mine rock 28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:19:54: hit mine rock 28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:19:54: Suport time 13.67188
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:19:56: hit mine rock 119
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:19:57: hit mine rock 119
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:19:59: hit mine rock 119
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:00: hit mine rock 119
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:02: hit mine rock 119
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:03: hit mine rock 119
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:04: hit mine rock 119
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:04: Suport time 13.91602
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:08: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:09: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:11: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:12: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:15: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:17: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:19: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:21: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:23: hit mine rock 104
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:23: Suport time 13.67188
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:26: hit mine rock 17
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:27: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:27: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:27: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:28: hit mine rock 17
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:29: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:29: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:29: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:29: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:30: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:30: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:31: Drop item $item_dandelion
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:31: drop all 1  1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:31: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:33: Drop item $item_necktail
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:33: drop all 2  2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:33: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:39: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:40: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:40: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:42: Drop item $item_beechseeds
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:42: drop all 5  5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:42: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:48: hit mine rock 17
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:50: hit mine rock 17
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:51: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:51: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:51: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:53: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:53: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:20:53: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:07: Right back item PickaxeAntler
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:16: Stoped music blackforest at 2942243
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:16: Resumed music meadows at 7398451
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:31: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:31: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:31: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:46: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:53: Stoped music meadows at 9000633
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:53: Resumed music blackforest at 2942243
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:53: Stoped music blackforest at 2945065
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:21:53: Resumed music meadows at 9000633
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:22: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:23: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:24: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:24: Setting selected recipe 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:24: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:24: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:29: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:29: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:29: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:29: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:29: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:29: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:30: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:32: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:32: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:32: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:33: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:33: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:34: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:34: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:34: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:36: trying to add $item_wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:36: Added ore Wood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:47: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:47: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:47: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:49: Setting selected recipe 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:24:50: Stoped music meadows at 7089937
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:01: Stoped music home at 495801
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:01: Resumed music home at 495801
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:01: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:01: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:02: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:02: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:08: Stoped music home at 820376
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:08: Resumed music meadows at 7089937
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:09: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:09: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:10: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:10: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:10: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:24: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:24: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:24: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:24: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:26: Stoped music meadows at 7851984
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:26: Resumed music home at 820376
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:27: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:31: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:31: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:31: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:34: Stoped music home at 1173175
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:34: Resumed music meadows at 7851984
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:55: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:55: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:55: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:55: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:56: Stoped music meadows at 8852054
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:56: Resumed music home at 1173175
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:25:58: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:00: UI Group status changed root = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:00: UI Group status changed Player = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:00: UI Group status changed SplitDialog = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:01: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:01: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:02: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:07: Stoped music home at 1654864
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:07: Resumed music meadows at 8852054
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:29: trying to add $item_copperore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:26:29: Added ore CopperOre
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:52: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:52: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:52: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:52: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:54: Stoped music meadows at 6477544
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:54: Resumed music home at 1654864
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:55: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:56: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:58: Added to stack8 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:28:58: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:04: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:04: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:04: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:05: Stoped music home at 2131849
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:05: Resumed music home at 2131849
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:09: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:11: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:14: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:17: Setting selected recipe 6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:22: Stoped music home at 2898600
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:22: Resumed music home at 2898600
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:23: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:23: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:23: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:23: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:26: Added to stack8 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:26: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:27: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:32: Stoped music home at 3321019
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:32: Resumed music meadows at 6477544
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+02/15/2021 15:29:44: clone 767
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 1135 unused Assets to reduce memory usage. Loaded Objects now: 1344165.
+Total: 1580.811000 ms (FindLiveObjects: 275.970200 ms CreateObjectMapping: 74.394300 ms MarkObjects: 1221.602200 ms  DeleteObjects: 8.843000 ms)
+
+02/15/2021 15:29:46: Saved 126200 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:29:46: World saved ( 2436.8024ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:30:46: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:30:46: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:30:46: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:30:49: Stoped music meadows at 189306
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:30:49: Resumed music home at 3321019
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:30:50: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:30:53: Setting selected recipe 6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:30:57: Setting selected recipe 11
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:00: Setting selected recipe 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:12: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:12: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:12: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:12: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:13: Stoped music home at 4345550
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:13: Resumed music home at 4345550
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:14: Added to stack10 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:14: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:16: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:16: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:16: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:19: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:19: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:19: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:19: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:21: Added to stack50 22
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:22: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:25: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:26: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:26: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:27: Stoped music home at 4967418
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:27: Resumed music home at 4967418
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:31: Setting selected recipe 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:36: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:36: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:36: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:36: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:37: Stoped music home at 5410534
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:37: Resumed music home at 5410534
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:38: UI Group status changed root = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:38: UI Group status changed Player = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:38: UI Group status changed SplitDialog = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:42: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:42: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:44: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:44: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:44: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:44: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:45: UI Group status changed root = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:45: UI Group status changed Player = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:45: UI Group status changed SplitDialog = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:48: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:48: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:48: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:52: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:52: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:52: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:54: Stoped music home at 6153765
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:54: Resumed music home at 6153765
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:31:55: Setting selected recipe 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:00: Queue unlock msg:$msg_newitem:$item_pickaxe_bronze
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:00: Setting selected recipe 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:06: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:06: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:06: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:07: Stoped music home at 6730475
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:07: Resumed music meadows at 189306
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:11: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:11: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:11: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:12: Stoped music meadows at 416979
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:12: Resumed music home at 6730475
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:17: Stoped music home at 6935569
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:32:17: Resumed music home at 6935569
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:36: Stoped music home at 2273711
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:36: Resumed music home at 2273711
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:37: Player -1058590509 wants to open piece_chest_wood(Clone)   im: -1058590509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:37: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:37: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:37: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:41: Drop item $item_axe_stone
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:41: drop all 1  1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:41: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:45: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:45: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:47: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:47: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:47: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:48: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:50: Stoped music home at 2910632
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:33:50: Resumed music meadows at 416979
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:34:01: hit mine rock 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:34:02: hit mine rock 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:34:02: Suport time 0.4882813
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:34:28: Stoped music meadows at 2061497
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:34:59: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:34:59: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:34:59: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:35:06: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:35:13: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:35:13: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:35:13: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:35:13: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:35:14: Resumed music home at 2910632
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/15/2021 15:38:37: Spawned Greydwarf x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1243 unused Assets to reduce memory usage. Loaded Objects now: 1394747.
+Total: 1562.104100 ms (FindLiveObjects: 264.097000 ms CreateObjectMapping: 57.458500 ms MarkObjects: 1231.668600 ms  DeleteObjects: 8.878600 ms)
+
