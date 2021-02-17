@@ -10,13 +10,13 @@ Direct3D:
     VRAM:     8150 MB
     Driver:   27.20.11036.1002
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.177 seconds
+- Completed reload, in  0.176 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.792600 ms
-02/17/2021 17:00:13: Starting to load scene:start
+UnloadTime: 0.867800 ms
+02/17/2021 17:14:50: Starting to load scene:start
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
@@ -25,461 +25,961 @@ Couldn't create a Convex Mesh from source mesh "RearBig" within the maximum poly
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 Setting up 8 worker threads for Enlighten.
-  Thread -> id: 3ce8 -> priority: 1 
-  Thread -> id: 4320 -> priority: 1 
-  Thread -> id: 2a98 -> priority: 1 
-  Thread -> id: 1e24 -> priority: 1 
-  Thread -> id: dac -> priority: 1 
-  Thread -> id: 19a0 -> priority: 1 
-  Thread -> id: 3410 -> priority: 1 
-  Thread -> id: 1a54 -> priority: 1 
-UnloadTime: 8.517600 ms
+  Thread -> id: 25d0 -> priority: 1 
+  Thread -> id: 1e38 -> priority: 1 
+  Thread -> id: 1a5c -> priority: 1 
+  Thread -> id: 238 -> priority: 1 
+  Thread -> id: 3234 -> priority: 1 
+  Thread -> id: 255c -> priority: 1 
+  Thread -> id: 4114 -> priority: 1 
+  Thread -> id: 3358 -> priority: 1 
+UnloadTime: 8.046100 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
 (Filename:  Line: 509)
 
 Initializing Google Analytics 0.2. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+02/17/2021 17:15:08: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Using mountain distance: 1000
+02/17/2021 17:15:08: Using mountain distance: 1000
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Render threading mode:MultiThreaded
+02/17/2021 17:15:08: Render threading mode:MultiThreaded
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Using environment steamid 892970
+02/17/2021 17:15:08: Using environment steamid 892970
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Using steam APPID:892970
+02/17/2021 17:15:08: Using steam APPID:892970
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Steam initialized, persona:CHENLOLA
+02/17/2021 17:15:08: Steam initialized, persona:CHENLOLA
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Missing audio clip in music respawn
+02/17/2021 17:15:08: Missing audio clip in music respawn
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Checking for installed DLCs
+02/17/2021 17:15:08: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: DLC:beta installed:False
+02/17/2021 17:15:08: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:32: Builder started
+02/17/2021 17:15:08: Builder started
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:33: Loaded localization English
+02/17/2021 17:15:10: Loaded localization English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:33: Loaded localization Chinese
+02/17/2021 17:15:10: Loaded localization Chinese
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:33: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
+02/17/2021 17:15:10: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:33: ARG 1 +connect_lobby
+02/17/2021 17:15:10: loading chenlola
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:33: Failed to get lobby data for lobby 109775241025489670, requesting lobby data
+02/17/2021 17:15:10: Data size:16785148  hash size:64
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:33: ARG 2 109775241025489670
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-02/17/2021 17:00:33: loading chenlola
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-02/17/2021 17:00:33: Data size:16785053  hash size:64
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-02/17/2021 17:00:33: Vis equip model set to 1
+02/17/2021 17:15:10: Vis equip model set to 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 87136.
-Total: 77.530600 ms (FindLiveObjects: 5.037400 ms CreateObjectMapping: 11.173300 ms MarkObjects: 60.901300 ms  DeleteObjects: 0.417900 ms)
+Total: 79.236000 ms (FindLiveObjects: 4.992700 ms CreateObjectMapping: 11.613500 ms MarkObjects: 62.172400 ms  DeleteObjects: 0.456800 ms)
 
-02/17/2021 17:00:34: Got lobby data, for queued lobby
+02/17/2021 17:15:12: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:34: show character selection
+02/17/2021 17:15:17: show character selection
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:44: OnCharacterStart
+02/17/2021 17:15:18: OnCharacterStart
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:15:19: Friend is in our game
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:15:20: Got requested lobby data
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.085800 ms
-02/17/2021 17:00:46: Loading player profile chenlola
+UnloadTime: 12.478300 ms
+02/17/2021 17:15:23: Loading player profile chenlola
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Data size:16785053  hash size:64
+02/17/2021 17:15:23: Data size:16785148  hash size:64
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Zonesystem Awake 684
+02/17/2021 17:15:23: Zonesystem Awake 718
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: DungeonDB Awake 684
+02/17/2021 17:15:23: DungeonDB Awake 718
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Steam initialized, persona:CHENLOLA
+02/17/2021 17:15:23: Steam initialized, persona:CHENLOLA
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Connecting to server 76561198980328615
+02/17/2021 17:15:23: Connecting to server 76561198980328615
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: ZSteamSocket  Registering global callbacks
+02/17/2021 17:15:23: ZSteamSocket  Registering global callbacks
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Build settings:10
+02/17/2021 17:15:23: Build settings:10
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing -1233507428
+02/17/2021 17:15:23: Removing -1233507428
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing 1883198027
+02/17/2021 17:15:23: Removing 1883198027
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing 868418350
+02/17/2021 17:15:23: Removing 868418350
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing -535269195
+02/17/2021 17:15:23: Removing -535269195
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing 1547815568
+02/17/2021 17:15:23: Removing 1547815568
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing -359949137
+02/17/2021 17:15:23: Removing -359949137
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing 319464002
+02/17/2021 17:15:23: Removing 319464002
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing 1225882809
+02/17/2021 17:15:23: Removing 1225882809
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Removing 404029124
+02/17/2021 17:15:23: Removing 404029124
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Audioman already exist, destroying self
+02/17/2021 17:15:23: Audioman already exist, destroying self
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: Checking for installed DLCs
+02/17/2021 17:15:23: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:46: DLC:beta installed:False
+02/17/2021 17:15:23: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 
 Unloading 496 unused Assets to reduce memory usage. Loaded Objects now: 86937.
-Total: 87.748700 ms (FindLiveObjects: 5.075400 ms CreateObjectMapping: 10.974000 ms MarkObjects: 65.388700 ms  DeleteObjects: 6.309800 ms)
+Total: 86.797700 ms (FindLiveObjects: 5.184400 ms CreateObjectMapping: 10.909900 ms MarkObjects: 64.225600 ms  DeleteObjects: 6.477100 ms)
 
-02/17/2021 17:00:50: Zonesystem Start 684
+02/17/2021 17:15:28: Zonesystem Start 718
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:51: DungeonDB Start 684
+02/17/2021 17:15:28: DungeonDB Start 718
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:54: VERSION check their:0.143.5  mine:0.143.5
+02/17/2021 17:15:35: VERSION check their:0.143.5  mine:0.143.5
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:54: Initializing world generator seed:C88f0NXGi3 ( 769048932 )   menu:False  worldgen version:1
+02/17/2021 17:15:35: Initializing world generator seed:C88f0NXGi3 ( 769048932 )   menu:False  worldgen version:1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:54: Using mountain distance: 1000
+02/17/2021 17:15:35: Using mountain distance: 1000
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:54: Found 586 mountain points
+02/17/2021 17:15:35: Found 586 mountain points
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:54: Remaining mountains:72
+02/17/2021 17:15:35: Remaining mountains:72
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:54: Calc time 42.4058 ms
+02/17/2021 17:15:35: Calc time 42.8854 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:54: Found 8115 lake points
+02/17/2021 17:15:35: Found 8115 lake points
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:58: Remaining lakes:116
+02/17/2021 17:15:38: Remaining lakes:116
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:58: Calc time 3784.8784 ms
+02/17/2021 17:15:38: Calc time 3781.4009 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:58: Rivers:148
+02/17/2021 17:15:38: Rivers:148
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:58: River buckets 14120
+02/17/2021 17:15:39: River buckets 14120
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:58: River render time 416.8885 ms
+02/17/2021 17:15:39: River render time 417.8821 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:00:58: River Calc time 437.8288 ms
+02/17/2021 17:15:39: River Calc time 437.8288 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:00: River buckets 22896
+02/17/2021 17:15:41: River buckets 22896
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:00: River render time 753.5146 ms
+02/17/2021 17:15:41: River render time 751.9978 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:00: Placed 1858 streams
+02/17/2021 17:15:41: Placed 1858 streams
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:00: Stream Calc time 1822.1786 ms
+02/17/2021 17:15:41: Stream Calc time 1823.4985 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:00: client got keys 3
+02/17/2021 17:15:41: client got keys 3
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:00: client got location icons
+02/17/2021 17:15:41: client got location icons
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:00: Icons:2
+02/17/2021 17:15:41: Icons:2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:00: Session auth respons callback
+02/17/2021 17:15:41: Session auth respons callback
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:19: Starting respawn
+02/17/2021 17:15:59: Starting respawn
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:19: tip:$loadscreen_tip17
+02/17/2021 17:15:59: tip:$loadscreen_tip04
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:26: Spawned after 8.019994
+02/17/2021 17:16:07: Spawned after 8.019994
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:26: Vis equip model set to 1
+02/17/2021 17:16:07: Vis equip model set to 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:27: Minimap: Adding unique location (-3.3, 79.3, 6.6)
+02/17/2021 17:16:07: Minimap: Adding unique location (-3.3, 79.3, 6.6)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:27: Minimap: Adding unique location (-1274.7, 37.9, 1336.3)
+02/17/2021 17:16:07: Minimap: Adding unique location (-1274.7, 37.9, 1336.3)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:28: Resumed music blackforest at 0
+02/17/2021 17:16:09: Resumed music blackforest at 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:30: Setting selected recipe 0
+02/17/2021 17:16:10: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:30: UI Group status changed root = True
+02/17/2021 17:16:10: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:30: UI Group status changed Player = True
+02/17/2021 17:16:10: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:32: UI Group status changed MenuRoot = False
+02/17/2021 17:16:12: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: ZNet Shutdown
+02/17/2021 17:16:12: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Flushed 1 objects
+02/17/2021 17:16:12: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Sending disconnect msg
+02/17/2021 17:16:14: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Sent to 76561198980328615
+02/17/2021 17:16:15: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Released session ticket
+02/17/2021 17:16:16: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Disposing socket
+02/17/2021 17:16:18: Added to stack43 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Closing socket 76561198980328615
+02/17/2021 17:16:18: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33:   send queue size:0
+02/17/2021 17:16:19: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33:   P2P state, bytes in send queue:0
+02/17/2021 17:16:19: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Last socket, unregistering callback
+02/17/2021 17:16:19: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+02/17/2021 17:16:22: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Disposing socket
+02/17/2021 17:16:23: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Closing socket 0
+02/17/2021 17:16:24: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: Last socket, unregistering callback
+02/17/2021 17:16:24: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:33: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+02/17/2021 17:16:24: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:34: Local player destroyed
+02/17/2021 17:16:25: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:25: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:25: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:26: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:26: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:26: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:27: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:27: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:27: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:30: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:31: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:31: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:31: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:31: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:32: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:32: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:32: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:33: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:33: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:33: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:33: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:35: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:35: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:35: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:35: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:36: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:36: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:36: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:36: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:37: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:37: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:37: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:38: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:38: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:38: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:38: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:39: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:39: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:39: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:39: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:43: UI Group status changed MenuRoot = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:48: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:50: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:50: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:50: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:51: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:51: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:51: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:52: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:52: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:52: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:53: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:53: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:53: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:54: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:54: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:54: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:56: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:56: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:56: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:57: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:57: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:57: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:57: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:16:59: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:00: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:01: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:02: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:03: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:03: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:04: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:04: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:04: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:04: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:04: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:04: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:07: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:07: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:08: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:09: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:10: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:11: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:12: Player 2888741595 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:12:   in use
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:12: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:13: Player 2888741595 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:14: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:15: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:16: Refresh complete 3438  eServerResponded
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:16: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:18: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:20: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:22: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:22: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:24: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:24: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:24: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:24: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:26: Player -1342919776 wants to open piece_chest(Clone)   im: -1342919776
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:26: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:26: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:26: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:27: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:27: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:27: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:28: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:29: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:30: UI Group status changed MenuRoot = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:30: UI Group status changed dialog = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: ZNet Shutdown
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Flushed 0 objects
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Sending disconnect msg
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Sent to 76561198980328615
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Released session ticket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Closing socket 76561198980328615
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32:   P2P state, bytes in send queue:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Last socket, unregistering callback
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Closing socket 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: Last socket, unregistering callback
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:32: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/17/2021 17:17:33: Local player destroyed
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-02/17/2021 17:01:36: ZNet OnDestroy
+02/17/2021 17:17:36: ZNet OnDestroy
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:36: Net scene destroyed
+02/17/2021 17:17:36: Net scene destroyed
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-UnloadTime: 781.716800 ms
+UnloadTime: 1047.678600 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
 (Filename:  Line: 509)
 
-02/17/2021 17:01:36: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+02/17/2021 17:17:37: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:36: Using mountain distance: 1000
+02/17/2021 17:17:37: Using mountain distance: 1000
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:36: Render threading mode:MultiThreaded
+02/17/2021 17:17:37: Render threading mode:MultiThreaded
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:36: Steam initialized, persona:CHENLOLA
+02/17/2021 17:17:37: Steam initialized, persona:CHENLOLA
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:36: Audioman already exist, destroying self
+02/17/2021 17:17:37: Audioman already exist, destroying self
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:36: Checking for installed DLCs
+02/17/2021 17:17:37: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:36: DLC:beta installed:False
+02/17/2021 17:17:37: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 
-Unloading 353 unused Assets to reduce memory usage. Loaded Objects now: 86671.
-Total: 108.916800 ms (FindLiveObjects: 4.980400 ms CreateObjectMapping: 9.953500 ms MarkObjects: 91.265100 ms  DeleteObjects: 2.717200 ms)
+Unloading 391 unused Assets to reduce memory usage. Loaded Objects now: 86676.
+Total: 140.536500 ms (FindLiveObjects: 7.004500 ms CreateObjectMapping: 11.921000 ms MarkObjects: 117.522000 ms  DeleteObjects: 4.088300 ms)
 
-02/17/2021 17:01:38: loading chenlola
+02/17/2021 17:17:38: loading chenlola
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:38: Data size:16785053  hash size:64
+02/17/2021 17:17:39: Data size:16785572  hash size:64
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:38: Vis equip model set to 1
+02/17/2021 17:17:39: Vis equip model set to 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:38: Stoped music blackforest at 432212
+02/17/2021 17:17:40: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-02/17/2021 17:01:39: UI Group status changed Menu = True
+02/17/2021 17:17:40: Stoped music blackforest at 4033872
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
