@@ -10,1307 +10,4167 @@ Direct3D:
     VRAM:     8150 MB
     Driver:   27.20.11036.1002
 Begin MonoManager ReloadAssembly
-- Completed reload, in  1.810 seconds
+- Completed reload, in  1.952 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 8.125500 ms
-03/16/2021 21:06:10: Starting to load scene:start
+UnloadTime: 10.171800 ms
+03/20/2021 01:32:50: Starting to load scene:start
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 Setting up 8 worker threads for Enlighten.
-  Thread -> id: 530 -> priority: 1 
-  Thread -> id: 1a28 -> priority: 1 
-  Thread -> id: 2414 -> priority: 1 
-  Thread -> id: 1e48 -> priority: 1 
+  Thread -> id: 2e40 -> priority: 1 
+  Thread -> id: 3108 -> priority: 1 
+  Thread -> id: 2198 -> priority: 1 
+  Thread -> id: 2b08 -> priority: 1 
   Thread -> id: 38e0 -> priority: 1 
-  Thread -> id: 19c4 -> priority: 1 
-  Thread -> id: 2ba0 -> priority: 1 
-  Thread -> id: b7c -> priority: 1 
-UnloadTime: 8.510800 ms
+  Thread -> id: 53c -> priority: 1 
+  Thread -> id: 2f74 -> priority: 1 
+  Thread -> id: 32e8 -> priority: 1 
+UnloadTime: 10.039400 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
 (Filename:  Line: 509)
 
-03/16/2021 21:06:30: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+03/20/2021 01:33:11: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Using mountain distance: 1000
+03/20/2021 01:33:11: Using mountain distance: 1000
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Render threading mode:MultiThreaded
+03/20/2021 01:33:11: Render threading mode:MultiThreaded
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Using environment steamid 892970
+03/20/2021 01:33:11: Using environment steamid 892970
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Using steam APPID:892970
+03/20/2021 01:33:11: Using steam APPID:892970
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Authentication:k_ESteamNetworkingAvailability_Attempting
+03/20/2021 01:33:11: Authentication:k_ESteamNetworkingAvailability_Attempting
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Steam initialized, persona:CHENLOLA
+03/20/2021 01:33:11: Steam initialized, persona:CHENLOLA
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Missing audio clip in music respawn
+03/20/2021 01:33:11: Missing audio clip in music respawn
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Checking for installed DLCs
+03/20/2021 01:33:11: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: DLC:beta installed:False
+03/20/2021 01:33:11: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:30: Builder started
+03/20/2021 01:33:11: Builder started
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:32: Loaded localization English
+03/20/2021 01:33:13: Loaded localization English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:32: Loaded localization Chinese
+03/20/2021 01:33:13: Loaded localization Chinese
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:32: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
+03/20/2021 01:33:13: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:32: Vis equip model set to 1
+03/20/2021 01:33:13: Vis equip model set to 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 87432.
-Total: 83.011000 ms (FindLiveObjects: 5.037700 ms CreateObjectMapping: 12.376200 ms MarkObjects: 65.132900 ms  DeleteObjects: 0.463600 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 87455.
+Total: 84.344900 ms (FindLiveObjects: 4.976300 ms CreateObjectMapping: 12.977500 ms MarkObjects: 65.901400 ms  DeleteObjects: 0.489200 ms)
 
-03/16/2021 21:06:36: UI Group status changed Menu = True
+03/20/2021 01:33:17: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:38: show character selection
+03/20/2021 01:33:32: show character selection
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:42: OnCharacterStart
+03/20/2021 01:33:34: OnCharacterStart
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:34:54: show character selection
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:34:54: UI Group status changed SelectCharacter = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:34:56: OnCharacterStart
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:34:56: UI Group status changed Panel = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 18.688200 ms
-03/16/2021 21:06:54: Loading player profile chenlola
+UnloadTime: 31.714000 ms
+03/20/2021 01:35:03: Loading player profile chenlola
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: Zonesystem Awake 1168
+03/20/2021 01:35:03: Zonesystem Awake 6246
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: DungeonDB Awake 1168
+03/20/2021 01:35:03: DungeonDB Awake 6246
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: Steam initialized, persona:CHENLOLA
+03/20/2021 01:35:03: Steam initialized, persona:CHENLOLA
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: Initializing world generator seed:C88f0NXGi3 ( 769048932 )   menu:False  worldgen version:1
+03/20/2021 01:35:03: Initializing world generator seed:C88f0NXGi3 ( 769048932 )   menu:False  worldgen version:1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: Using mountain distance: 1000
+03/20/2021 01:35:03: Using mountain distance: 1000
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: Found 586 mountain points
+03/20/2021 01:35:03: Found 586 mountain points
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: Remaining mountains:72
+03/20/2021 01:35:03: Remaining mountains:72
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: Calc time 42.8861 ms
+03/20/2021 01:35:03: Calc time 43.8894 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:54: Found 8115 lake points
+03/20/2021 01:35:03: Found 8115 lake points
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:58: Remaining lakes:116
+03/20/2021 01:35:07: Remaining lakes:116
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:58: Calc time 3976.6929 ms
+03/20/2021 01:35:07: Calc time 3964.0379 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:58: Rivers:148
+03/20/2021 01:35:07: Rivers:148
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:58: River buckets 14120
+03/20/2021 01:35:08: River buckets 14120
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:58: River render time 462.7624 ms
+03/20/2021 01:35:08: River render time 455.8525 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:06:58: River Calc time 484.7062 ms
+03/20/2021 01:35:08: River Calc time 476.7997 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:00: River buckets 22896
+03/20/2021 01:35:09: River buckets 22896
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:00: River render time 778.9171 ms
+03/20/2021 01:35:09: River render time 774.5688 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:00: Placed 1858 streams
+03/20/2021 01:35:09: Placed 1858 streams
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:00: Stream Calc time 1845.0346 ms
+03/20/2021 01:35:09: Stream Calc time 1836.5151 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:00: Load world 999999
+03/20/2021 01:35:09: Load world 999999
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:00: Loading 609128 zdos , my id -1020164022 data version:26
+03/20/2021 01:35:09: Loading 609630 zdos , my id -535784242 data version:26
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:04: Loaded 100000 dead zdos
+03/20/2021 01:35:13: Loaded 100000 dead zdos
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:04: Removed 0 OLD generated ZDOS
+03/20/2021 01:35:13: Removed 0 OLD generated ZDOS
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:04: Loaded 7072 locations
+03/20/2021 01:35:13: Loaded 7072 locations
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:04: Audioman already exist, destroying self
+03/20/2021 01:35:13: Audioman already exist, destroying self
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:04: Checking for installed DLCs
+03/20/2021 01:35:13: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:04: DLC:beta installed:False
+03/20/2021 01:35:13: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 
-Unloading 512 unused Assets to reduce memory usage. Loaded Objects now: 87012.
-Total: 505.665200 ms (FindLiveObjects: 5.139300 ms CreateObjectMapping: 11.363300 ms MarkObjects: 482.072400 ms  DeleteObjects: 7.089500 ms)
+Unloading 513 unused Assets to reduce memory usage. Loaded Objects now: 87012.
+Total: 506.504900 ms (FindLiveObjects: 5.158700 ms CreateObjectMapping: 10.361500 ms MarkObjects: 484.001500 ms  DeleteObjects: 6.982600 ms)
 
-03/16/2021 21:07:09: Zonesystem Start 1168
+03/20/2021 01:35:19: Zonesystem Start 6246
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:10: DungeonDB Start 1168
+03/20/2021 01:35:19: DungeonDB Start 6246
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:10: Starting respawn
+03/20/2021 01:35:19: Starting respawn
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:29: tip:$loadscreen_tip21
+03/20/2021 01:35:39: tip:$loadscreen_tip15
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:33: Loading dungeon
+03/20/2021 01:35:41: Force generaeting hmap (-896.0, 0.0, 4352.0)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:33: Dungeon loaded 13
+03/20/2021 01:35:41: Force generaeting hmap (-768.0, 0.0, 4224.0)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:33: Dungeon load time 29.9172 ms
+03/20/2021 01:35:41: Force generaeting hmap (-896.0, 0.0, 4352.0)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:33: Loading dungeon
+03/20/2021 01:35:41: Force generaeting hmap (-960.0, 0.0, 4352.0)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:33: Dungeon loaded 32
+03/20/2021 01:35:42: Force generaeting hmap (-832.0, 0.0, 4288.0)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:33: Dungeon load time 36.9028 ms
+03/20/2021 01:35:44: Loading dungeon
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:37: Spawned after 8.019994
+03/20/2021 01:35:44: Dungeon loaded 13
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:37: Vis equip model set to 1
+03/20/2021 01:35:44: Dungeon load time 30.9216 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:38: Minimap: Adding unique location (-3.3, 79.3, 6.6)
+03/20/2021 01:35:44: Loading dungeon
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:38: Minimap: Adding unique location (-1274.7, 37.9, 1336.3)
+03/20/2021 01:35:44: Dungeon loaded 32
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:39: Resumed music plains at 0
+03/20/2021 01:35:44: Dungeon load time 38.9063 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:52: Setting selected recipe 0
+03/20/2021 01:35:48: Spawned after 8.019994
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:52: UI Group status changed root = True
+03/20/2021 01:35:48: Vis equip model set to 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:52: UI Group status changed Player = True
+03/20/2021 01:35:48: Minimap: Adding unique location (-3.3, 79.3, 6.6)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:56: Drop item $item_stone
+03/20/2021 01:35:48: Minimap: Adding unique location (-1274.7, 37.9, 1336.3)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:56: drop all 10  10
+03/20/2021 01:35:50: Resumed music plains at 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:56: Setting selected recipe 1
+03/20/2021 01:35:54: Current res 1536x960     1536x960
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:58: Drop item $item_finewood
+03/20/2021 01:35:54: UI Group status changed MenuRoot = False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:58: drop all 40  40
+03/20/2021 01:35:59: UI Group status changed MenuRoot = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:58: Setting selected recipe 1
+03/20/2021 01:36:17: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:59: Drop item $item_dandelion
+03/20/2021 01:36:17: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:59: drop all 4  4
+03/20/2021 01:36:17: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:07:59: Setting selected recipe 1
+03/20/2021 01:36:23: Vis equip model set to 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:03: Drop item $item_surtlingcore
+03/20/2021 01:36:33: Starting respawn
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:03: drop all 5  5
+03/20/2021 01:36:33: Local player destroyed
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:03: Setting selected recipe 1
+03/20/2021 01:36:33: tip:$loadscreen_tip13
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:05: Drop item $item_wood
+03/20/2021 01:36:41: Found bed at custom spawn point
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:05: drop all 11  11
+03/20/2021 01:36:41: Vis equip model set to 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:05: Setting selected recipe 0
+03/20/2021 01:36:43: Stoped music plains at 2329999
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:08: Setting selected recipe 0
+03/20/2021 01:36:43: Resumed music plains at 2329999
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:08: UI Group status changed root = True
+03/20/2021 01:36:45: Refresh complete 7603  eServerResponded
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:08: UI Group status changed Player = True
+03/20/2021 01:37:05: Player -535784242 wants to open Player_tombstone(Clone)   im: -535784242
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:09: Setting selected recipe 0
+03/20/2021 01:37:05: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:13: Drop item $item_blackmetal
+03/20/2021 01:37:05: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:13: drop all 30  30
+03/20/2021 01:37:05: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:13: Setting selected recipe 0
+03/20/2021 01:37:24: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:46: Setting selected recipe 31
+03/20/2021 01:37:24: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:46: UI Group status changed root = True
+03/20/2021 01:37:24: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:08:46: UI Group status changed Player = True
+03/20/2021 01:37:32: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:04: Placed wood_stair
+03/20/2021 01:37:32: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:06: Placed wood_stair
+03/20/2021 01:37:32: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:13: Placed wood_stair
+03/20/2021 01:37:40: Right back item SwordIron
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:15: Placed wood_stair
+03/20/2021 01:37:45: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:18: Placed wood_stair
+03/20/2021 01:37:49: Spawned FireFlies x 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:21: Placed wood_stair
+03/20/2021 01:37:53: Spawned FireFlies x 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:21: Placed wood_stair
+03/20/2021 01:37:54: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:26: Placed wood_stair
+03/20/2021 01:37:54: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:28: Placed wood_stair
+03/20/2021 01:37:54: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:35: Spawned FireFlies x 1
+03/20/2021 01:37:55: Stoped music plains at 5512508
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:36: Placed wood_stair
+03/20/2021 01:37:55: Resumed music blackforest at 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:39: Spawned FireFlies x 1
+03/20/2021 01:37:55: Stoped music blackforest at 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:39: Placed wood_stair
+03/20/2021 01:37:55: Resumed music plains at 5512508
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:45: Placed wood_wall_log_4x0.5
+03/20/2021 01:38:12: Stoped music plains at 6230471
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:47: Placed wood_wall_log_4x0.5
+03/20/2021 01:38:14: Right back item SwordIron
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:54: Right back item Hammer
+03/20/2021 01:38:20: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:09:59: Right back item 
+03/20/2021 01:38:20: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:03: Spawned FireFlies x 1
+03/20/2021 01:38:20: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:06: Stoped music plains at 6445381
+03/20/2021 01:38:25: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:07: Placed wood_pole_log_4
+03/20/2021 01:38:25: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:19: Placed wood_pole_log
+03/20/2021 01:38:25: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:22: Placed wood_pole_log
+03/20/2021 01:38:39: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:26: Placed wood_pole_log_4
+03/20/2021 01:38:45: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:34: Setting selected recipe 31
+03/20/2021 01:38:45: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:34: UI Group status changed root = True
+03/20/2021 01:38:45: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:34: UI Group status changed Player = True
+03/20/2021 01:38:45: Resumed music plains at 6230471
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:39: Resumed music plains at 6445381
+03/20/2021 01:38:55: Right back item SwordIron
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:48: Placed wood_wall_log_4x0.5
+03/20/2021 01:38:57: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:55: Placed wood_floor
+03/20/2021 01:38:57: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:10:58: Placed wood_floor
+03/20/2021 01:38:57: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:13: Placed wood_stair
+03/20/2021 01:38:58: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:15: Placed wood_stair
+03/20/2021 01:40:19: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:16: Placed wood_stair
+03/20/2021 01:40:19: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:17: Placed wood_stair
+03/20/2021 01:40:20: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:20: Placed wood_stair
+03/20/2021 01:40:21: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:23: Placed wood_stair
+03/20/2021 01:40:21: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:36: Placed wood_floor
+03/20/2021 01:40:22: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:41: Placed wood_stair
+03/20/2021 01:40:23: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:43: Placed wood_stair
+03/20/2021 01:40:23: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:48: Placed wood_pole_log_4
+03/20/2021 01:40:24: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:50: Placed wood_pole_log_4
+03/20/2021 01:40:25: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:52: Placed wood_pole_log_4
+03/20/2021 01:40:26: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:11:53: Placed wood_pole_log_4
+03/20/2021 01:40:27: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:05: Placed wood_floor
+03/20/2021 01:40:27: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:07: Placed wood_floor
+03/20/2021 01:40:27: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:11: Placed wood_floor
+03/20/2021 01:40:28: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:13: Placed wood_floor
+03/20/2021 01:40:28: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:21: Placed wood_wall_log_4x0.5
+03/20/2021 01:40:28: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:26: Placed wood_wall_log_4x0.5
+03/20/2021 01:40:29: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:30: Placed wood_wall_log_4x0.5
+03/20/2021 01:40:31: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:50: Placed wood_stair
+03/20/2021 01:40:34: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:53: Placed wood_stair
+03/20/2021 01:40:35: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:55: Placed wood_stair
+03/20/2021 01:40:36: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:12:58: Placed wood_stair
+03/20/2021 01:40:47: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:03: Placed wood_pole_log_4
+03/20/2021 01:40:48: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:06: Placed wood_pole_log_4
+03/20/2021 01:40:49: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:08: Placed wood_pole_log_4
+03/20/2021 01:41:03: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:12: Placed wood_pole_log
+03/20/2021 01:41:04: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:15: Placed wood_pole_log
+03/20/2021 01:41:04: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:17: Placed wood_pole_log
+03/20/2021 01:41:05: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:32: Placed wood_pole_log_4
+03/20/2021 01:41:06: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:33: Right back item Hammer
+03/20/2021 01:41:13: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:43: Right back item 
+03/20/2021 01:41:14: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:45: Placed wood_pole_log_4
+03/20/2021 01:41:14: Placed mud_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:50: Right back item Hammer
+03/20/2021 01:41:24: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:55: Setting selected recipe 31
+03/20/2021 01:41:26: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:55: UI Group status changed root = True
+03/20/2021 01:41:26: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:13:55: UI Group status changed Player = True
+03/20/2021 01:41:27: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:00: Right back item 
+03/20/2021 01:41:27: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:05: Placed wood_wall_log_4x0.5
+03/20/2021 01:41:27: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:07: Placed wood_wall_log_4x0.5
+03/20/2021 01:41:31: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:21: Placed wood_wall_log_4x0.5
+03/20/2021 01:41:33: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:22: Placed wood_wall_log_4x0.5
+03/20/2021 01:41:50: Placed hearth
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:30: Placed wood_wall_log_4x0.5
+03/20/2021 01:41:50: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:32: Placed wood_wall_log_4x0.5
+03/20/2021 01:41:51: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:38: Right back item Hammer
+03/20/2021 01:41:55: Stoped music plains at 6804906
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:45: Right back item 
+03/20/2021 01:42:02: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:47: Placed wood_wall_log_4x0.5
+03/20/2021 01:42:03: Stoped music home at 340695
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:55: Placed wood_wall_log_4x0.5
+03/20/2021 01:42:03: Resumed music home at 340695
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:14:59: Placed wood_wall_log_4x0.5
+03/20/2021 01:42:10: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:15:15: Placed wood_floor
+03/20/2021 01:42:14: Placed piece_cookingstation
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:15:16: Placed wood_floor
+03/20/2021 01:42:14: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:15:18: Placed wood_floor
+03/20/2021 01:42:16: Stoped music home at 924232
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:15:20: Placed wood_floor
+03/20/2021 01:42:16: Resumed music plains at 6804906
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:15:21: Placed wood_floor
+03/20/2021 01:42:17: Placed piece_cookingstation
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:15:52: Placed wood_floor
+03/20/2021 01:42:17: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:15:55: Placed wood_floor
+03/20/2021 01:42:19: Stoped music plains at 6919805
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:15:59: Placed wood_floor
+03/20/2021 01:42:19: Resumed music home at 924232
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:16:20: Placed wood_wall_roof_45
+03/20/2021 01:42:20: Placed piece_cookingstation
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:16:21: Placed wood_wall_roof_45
+03/20/2021 01:42:20: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:16:35: Placed wood_floor
+03/20/2021 01:42:22: Placed piece_cookingstation
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:16:51: Right back item Hammer
+03/20/2021 01:42:22: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:16:55: Right back item 
+03/20/2021 01:42:23: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:00: Placed wood_wall_roof_45
+03/20/2021 01:42:25: Placed piece_cookingstation
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:03: Placed wood_wall_roof_45
+03/20/2021 01:42:25: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:06: Placed wood_wall_roof_45
+03/20/2021 01:42:27: Placed piece_cookingstation
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:08: Placed wood_wall_roof_45
+03/20/2021 01:42:27: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:24: Placed wood_wall_roof_45
+03/20/2021 01:42:31: Right back item SwordIron
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:26: Placed wood_wall_roof_45
+03/20/2021 01:42:37: Stoped music home at 1702593
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:29: Setting selected recipe 31
+03/20/2021 01:42:37: Resumed music plains at 6919805
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:29: UI Group status changed root = True
+03/20/2021 01:42:37: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:29: UI Group status changed Player = True
+03/20/2021 01:42:37: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:42:45: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:42:47: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:01: Stoped music plains at 184849
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:01: Resumed music home at 1702593
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:10: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:11: Current res 1280x720     1280x720
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:11: UI Group status changed MenuRoot = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:12: Stoped music home at 2172017
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:12: Resumed music plains at 184849
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:18: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:23: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:24: Current res 1280x720     1280x720
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:24: UI Group status changed MenuRoot = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:25: Current res 1280x720     1280x720
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:25: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:50: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:43:53: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:04: Placed stone_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:06: Placed stone_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:09: Placed stone_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:15: Right back item Hammer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:15: Stoped music plains at 2968335
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:15: Resumed music blackforest at 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:15: Stoped music blackforest at 5466
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:15: Resumed music plains at 2968335
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:17: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:24: Right back item Hammer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:26: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:44: Placed stone_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:44:46: Placed stone_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:45:16: Right back item Hammer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:45:19: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:45:26: Right back item Hammer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:45:31: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:45:34: Right back item Hammer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:45:35: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:45:35: Right back item SwordIron
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 7077 unused Assets to reduce memory usage. Loaded Objects now: 1415108.
-Total: 1194.856800 ms (FindLiveObjects: 173.360700 ms CreateObjectMapping: 36.014800 ms MarkObjects: 962.186100 ms  DeleteObjects: 23.294400 ms)
+Unloading 2090 unused Assets to reduce memory usage. Loaded Objects now: 1451277.
+Total: 1295.335600 ms (FindLiveObjects: 131.988300 ms CreateObjectMapping: 29.301300 ms MarkObjects: 1125.231500 ms  DeleteObjects: 8.813700 ms)
 
-03/16/2021 21:17:31: Setting selected recipe 31
+03/20/2021 01:45:47: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:31: UI Group status changed root = True
+03/20/2021 01:45:56: Placed stone_stair
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:31: UI Group status changed Player = True
+03/20/2021 01:46:03: Stoped music plains at 7727156
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:36: Placed wood_wall_roof_top_45
+03/20/2021 01:46:03: Resumed music blackforest at 5466
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:39: Placed wood_wall_roof_top_45
+03/20/2021 01:46:07: Stoped music blackforest at 182587
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:41: Placed wood_wall_roof_top_45
+03/20/2021 01:46:07: Resumed music plains at 7727156
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:43: Placed wood_wall_roof_top_45
+03/20/2021 01:46:09: Right back item SwordIron
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:17:59: Placed wood_wall_roof_top_45
+03/20/2021 01:46:10: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:02: Placed wood_wall_roof_top_45
+03/20/2021 01:46:13: Placed stone_stair
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:08: Placed wood_wall_roof_top_45
+03/20/2021 01:46:24: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:12: Placed wood_wall_roof_top_45
+03/20/2021 01:46:30: Placed stone_stair
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:36: Placed wood_wall_roof_top_45
+03/20/2021 01:46:36: Right back item Hammer
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:41: Placed wood_wall_roof_top_45
+03/20/2021 01:46:39: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:46: Placed wood_wall_roof_top_45
+03/20/2021 01:46:47: Placed stone_stair
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:48: Placed wood_wall_roof_top_45
+03/20/2021 01:46:47: Right back item Hammer
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:54: Placed wood_wall_roof_top_45
+03/20/2021 01:46:50: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:18:59: Placed wood_wall_roof_top_45
+03/20/2021 01:46:54: Right back item Hammer
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:20:03: Placed wood_wall_roof_top_45
+03/20/2021 01:46:56: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:20:08: Placed wood_wall_roof_top_45
+03/20/2021 01:46:56: Right back item Hammer
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:20:39: Placed wood_wall_log_4x0.5
+03/20/2021 01:46:58: Right back item 
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:20:51: Placed wood_stair
+03/20/2021 01:47:02: Placed stone_stair
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:20:52: Placed wood_stair
+03/20/2021 01:47:38: Stoped music plains at 3930941
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:00: Placed wood_wall_log_4x0.5
+03/20/2021 01:47:38: Resumed music plains at 3930941
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:07: Placed wood_floor
+03/20/2021 01:48:12: Setting selected recipe 33
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:12: Placed wood_stair
+03/20/2021 01:48:13: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:20: Placed wood_stair
+03/20/2021 01:48:13: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:24: Placed wood_stair
+03/20/2021 01:48:34: Stoped music plains at 6381488
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:26: Placed wood_stair
+03/20/2021 01:48:34: Resumed music plains at 6381488
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:31: Placed wood_floor
+03/20/2021 01:48:57: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:36: Placed wood_stair
+03/20/2021 01:49:05: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:21:38: Placed wood_stair
+03/20/2021 01:49:44: Placed stone_wall_2x1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:22:23: Placed wood_floor
+03/20/2021 01:49:45: Placed stone_wall_2x1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:22:31: Placed wood_floor
+03/20/2021 01:49:49: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:22:36: Placed wood_floor
+03/20/2021 01:49:50: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:22:45: Placed wood_wall_log_4x0.5
+03/20/2021 01:49:51: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:22:56: Placed wood_pole_log_4
+03/20/2021 01:49:52: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:23:11: Placed wood_pole_log_4
+03/20/2021 01:49:53: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:23:26: Placed wood_wall_log_4x0.5
+03/20/2021 01:49:55: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:23:40: Placed wood_pole_log
+03/20/2021 01:49:58: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:23:44: Placed wood_pole_log_4
+03/20/2021 01:49:58: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:24:11: Placed wood_stair
+03/20/2021 01:50:00: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:24:20: Right back item Hammer
+03/20/2021 01:50:01: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:05: Setting selected recipe 0
+03/20/2021 01:50:02: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:05: UI Group status changed root = True
+03/20/2021 01:50:04: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:05: UI Group status changed Player = True
+03/20/2021 01:50:05: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:12: Right back item 
+03/20/2021 01:50:06: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:12: Right back item Hoe
+03/20/2021 01:50:07: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:13: Right back item 
+03/20/2021 01:50:09: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:30: Right back item PickaxeIron
+03/20/2021 01:50:10: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:35: Right back item 
+03/20/2021 01:50:11: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:40: Placed mud_road
+03/20/2021 01:50:12: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:43: Placed path
+03/20/2021 01:50:14: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:44: Placed path
+03/20/2021 01:50:15: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:46: Placed path
+03/20/2021 01:50:16: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:46: Placed path
+03/20/2021 01:50:17: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:48: Placed paved_road
+03/20/2021 01:50:18: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:49: Placed paved_road
+03/20/2021 01:50:20: Placed stone_floor_2x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:50: Placed paved_road
+03/20/2021 01:50:27: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:50: Placed paved_road
+03/20/2021 01:50:29: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:54: Placed paved_road
+03/20/2021 01:50:30: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:25:54: Placed paved_road
+03/20/2021 01:50:30: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:25: Player onboard, total onboard 1
+03/20/2021 01:50:31: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:26: Loading dungeon
+03/20/2021 01:50:32: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:26: Dungeon loaded 32
+03/20/2021 01:50:32: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:26: Dungeon load time 54.8535 ms
+03/20/2021 01:50:32: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:26: Right back item Hammer
+03/20/2021 01:50:33: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:31: Loading dungeon
+03/20/2021 01:50:33: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:31: Dungeon loaded 32
+03/20/2021 01:50:34: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:31: Dungeon load time 44.8767 ms
+03/20/2021 01:50:34: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:26:33: ship controlls set VikingShip(Clone)
+03/20/2021 01:50:35: Placed paved_road
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:27:33: clone 1820
+03/20/2021 01:50:35: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:35: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:46: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:47: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:47: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:47: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:56: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:57: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:58: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:58: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:59: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:59: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:50:59: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:00: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:04: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:14: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:14: Local player destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:14: tip:$loadscreen_tip08
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:22: Found bed at custom spawn point
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:22: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:24: Stoped music plains at 6108357
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:24: Resumed music plains at 6108357
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:58: Player -535784242 wants to open Player_tombstone(Clone)   im: -535784242
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:58: Setting selected recipe 31
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:58: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:51:58: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:01: Setting selected recipe 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:01: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:01: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:06: Setting selected recipe 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:06: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:06: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:12: Spawned Seagal x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:16: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:16: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:16: Dungeon load time 41.8975 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:32: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:47: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:49: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:51: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:54: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:52:59: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:02: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:09: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:14: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:15: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:16: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:17: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:19: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:33: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:49: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:51: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:53:55: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:08: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:11: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:21: Placed stone_wall_1x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:35: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:36: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:38: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:48: Placed stone_wall_1x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:53: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:54:56: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:18: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:30: Placed hearth
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:30: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:36: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:38: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+03/20/2021 01:55:44: clone 1849
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 2220 unused Assets to reduce memory usage. Loaded Objects now: 1463267.
+Total: 1719.714900 ms (FindLiveObjects: 207.981600 ms CreateObjectMapping: 37.031700 ms MarkObjects: 1463.331200 ms  DeleteObjects: 11.369800 ms)
+
+03/20/2021 01:55:48: Saved 609666 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:49: Placed piece_cookingstation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:49: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:49: World saved ( 4707.9171ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:50: Placed piece_cookingstation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:50: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:53: Placed piece_cookingstation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:53: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:55: Placed piece_cookingstation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:55: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:59: Placed piece_cookingstation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:55:59: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:00: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:01: Placed piece_cookingstation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:01: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:04: Placed piece_cookingstation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:04: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:07: Right back item SwordIron
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:13: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:35: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:43: Stoped music plains at 4575951
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:52: Placed wood_roof_top
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:56: Placed wood_roof
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:56:58: Placed wood_roof
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:29: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:30: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:31: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:32: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:33: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:34: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:35: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:36: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:36: Placed paved_road
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:41: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:42: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:44: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:46: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:49: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:57:51: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:34: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:36: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:37: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:41: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:43: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:45: Placed stone_floor_2x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:46: Stoped music home at 5406497
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:46: Resumed music plains at 4575951
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:48: Stoped music plains at 4637376
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:48: Resumed music home at 5406497
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:54: Stoped music home at 5697765
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:58:54: Resumed music plains at 4637376
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:10: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:12: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:13: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:15: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:16: Stoped music plains at 5574967
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:17: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:18: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:36: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:39: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:39: Spawned Greydwarf_Elite x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:39: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:39: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:42: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:44: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:47: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:51: Spawned Goblin x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:51: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:54: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:56: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:56: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:58: Placed piece_groundtorch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:58: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:58: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:58: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 01:59:58: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:00: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:00: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:02: Resumed music home at 5697765
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:02: Placed piece_groundtorch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:02: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:02: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:02: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:02: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:06: Placed piece_groundtorch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:06: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:06: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:06: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:06: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:07: Stoped music home at 5923117
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:07: Resumed music plains at 5574967
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:07: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:07: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:10: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:10: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:12: Stoped music plains at 5772235
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:12: Resumed music plains at 5772235
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:12: Placed piece_groundtorch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:12: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:12: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:12: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:12: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:13: Stoped music plains at 5811918
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:13: Resumed music home at 5923117
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:13: Stoped music home at 5958436
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:13: Resumed music home at 5958436
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:15: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:16: Placed piece_groundtorch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:16: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:16: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:16: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:16: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:20: Stoped music home at 6231160
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:20: Resumed music plains at 5811918
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:27: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:27: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:27: Spawned Deathsquito x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:33: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:35: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:38: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:40: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:40: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:40: Dungeon load time 43.8901 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:42: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:43: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:52: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:52: Local player destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:00:52: tip:$loadscreen_tip06
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:00: Found bed at custom spawn point
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:00: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:02: Stoped music plains at 7680076
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:02: Resumed music plains at 7680076
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:03: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:14: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:19: Poison damage: 22.09314 ttl:5.700334 hits:5 dmg perhit:4.418628
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:24: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:24: Local player destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:24: tip:$loadscreen_tip10
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:32: Found bed at custom spawn point
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:32: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:34: Stoped music plains at 1305144
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:34: Resumed music plains at 1305144
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:43: Spawned Greydwarf_Elite x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:45: Player -535784242 wants to open Player_tombstone(Clone)   im: -535784242
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:45: Setting selected recipe 31
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:45: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:01:45: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:23: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:23: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:26: Player -535784242 wants to open Player_tombstone(Clone)   im: -535784242
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:26: Setting selected recipe 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:26: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:26: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:28: Item is not in this container
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:29: Setting selected recipe 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:31: Drop item $item_finewood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:31: drop all 50  50
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:31: Setting selected recipe 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:49: Stoped music plains at 4603028
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:49: Resumed music home at 6231160
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:02:51: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:16: Stoped music home at 7422862
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:16: Resumed music plains at 4603028
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:23: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:25: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:25: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:25: Dungeon load time 41.891 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:29: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:29: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:29: Dungeon load time 41.8912 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:38: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:39: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:44: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:44: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:44: Dungeon load time 33.9208 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:03:59: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:01: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:01: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:01: Dungeon load time 34.9041 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:03: Spawned Greydwarf x 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:03: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:05: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:08: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:08: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:10: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:11: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:12: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:17: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:19: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:21: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:23: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:23: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:23: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:23: Dungeon load time 34.9053 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:34: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:35: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:37: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:39: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:41: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:43: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:47: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:48: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:50: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:52: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:04:59: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:02: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:05: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:09: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:20: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:20: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:20: Dungeon load time 41.8908 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:23: Setting selected recipe 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:23: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:23: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:34: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:37: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:41: Spawned Goblin x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:05:45: Placed stone_pillar
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 4595 unused Assets to reduce memory usage. Loaded Objects now: 1369994.
-Total: 1893.491600 ms (FindLiveObjects: 234.559900 ms CreateObjectMapping: 48.483900 ms MarkObjects: 1589.687800 ms  DeleteObjects: 20.759200 ms)
+Unloading 3615 unused Assets to reduce memory usage. Loaded Objects now: 1468236.
+Total: 1337.889900 ms (FindLiveObjects: 189.765500 ms CreateObjectMapping: 36.441900 ms MarkObjects: 1095.269900 ms  DeleteObjects: 16.412000 ms)
 
-03/16/2021 21:27:39: Saved 609188 zdos
+03/20/2021 02:05:48: Placed stone_pillar
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:27:39: World saved ( 5668.9117ms )
+03/20/2021 02:05:50: Placed stone_pillar
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:27:45: Loading dungeon
+03/20/2021 02:05:52: Spawned Greydwarf_Elite x 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:27:45: Dungeon loaded 32
+03/20/2021 02:05:54: Placed stone_wall_4x2
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:27:45: Dungeon load time 45.8743 ms
+03/20/2021 02:05:58: Placed stone_pillar
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:27:59: Loading dungeon
+03/20/2021 02:06:00: Placed stone_pillar
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:27:59: Dungeon loaded 13
+03/20/2021 02:06:03: Placed stone_pillar
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:27:59: Dungeon load time 38.892 ms
+03/20/2021 02:06:10: Disabling collider_block  blocker
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:28:00: Stop ship controlls
+03/20/2021 02:06:10: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:28:01: Right back item 
+03/20/2021 02:06:10: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:28:04: Placed wood_pole_log_4
+03/20/2021 02:06:15: Placed piece_groundtorch
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:28:17: Placed wood_pole_log_4
+03/20/2021 02:06:15: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:28:38: Placed wood_wall_log_4x0.5
+03/20/2021 02:06:15: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:28:41: Placed wood_wall_log_4x0.5
+03/20/2021 02:06:15: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:28:54: Placed wood_wall_log_4x0.5
+03/20/2021 02:06:15: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:28:58: Placed wood_wall_log_4x0.5
+03/20/2021 02:06:19: Placed piece_groundtorch
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:29:06: Placed wood_wall_roof_top_45
+03/20/2021 02:06:19: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:29:13: Placed wood_wall_roof_top_45
+03/20/2021 02:06:19: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:29:20: Placed wood_wall_roof_top_45
+03/20/2021 02:06:19: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:29:24: Placed wood_wall_roof_top_45
+03/20/2021 02:06:19: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:29:30: ship controlls set VikingShip(Clone)
+03/20/2021 02:06:23: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:09: Loading dungeon
+03/20/2021 02:06:23: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:09: Dungeon loaded 13
+03/20/2021 02:06:27: Placed piece_groundtorch
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:09: Dungeon load time 33.9066 ms
+03/20/2021 02:06:27: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:15: Stop ship controlls
+03/20/2021 02:06:27: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:27: ship controlls set VikingShip(Clone)
+03/20/2021 02:06:27: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:29: Stop ship controlls
+03/20/2021 02:06:27: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:31: ship controlls set VikingShip(Clone)
+03/20/2021 02:06:36: Placed piece_groundtorch
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:33: Stop ship controlls
+03/20/2021 02:06:36: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:37: Player over board, players left 0
+03/20/2021 02:06:36: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:50: Placed wood_wall_roof_top_45
+03/20/2021 02:06:36: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:51: Placed wood_wall_roof_top_45
+03/20/2021 02:06:36: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:55: Placed wood_wall_roof_top_45
+03/20/2021 02:06:41: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:30:57: Placed wood_wall_roof_top_45
+03/20/2021 02:06:41: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:00: Placed wood_wall_roof_top_45
+03/20/2021 02:06:43: Loading dungeon
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:10: Stoped music plains at 6109267
+03/20/2021 02:06:43: Dungeon loaded 32
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:12: Spawned Greydwarf x 3
+03/20/2021 02:06:43: Dungeon load time 42.884 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:12: Spawned Goblin x 4
+03/20/2021 02:06:46: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:28: Spawned FireFlies x 1
+03/20/2021 02:06:46: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:39: Placed stone_stair
+03/20/2021 02:06:56: Placed piece_groundtorch
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:40: Placed stone_stair
+03/20/2021 02:06:56: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:44: Spawned FireFlies x 1
+03/20/2021 02:06:56: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:49: Placed stone_stair
+03/20/2021 02:06:56: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:51: Placed stone_stair
+03/20/2021 02:06:56: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:52: Spawned FireFlies x 1
+03/20/2021 02:07:04: Placed piece_groundtorch
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:56: Resumed music plains at 6109267
+03/20/2021 02:07:04: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:31:56: Placed stone_stair
+03/20/2021 02:07:04: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:32:08: Spawned Greydwarf_Elite x 1
+03/20/2021 02:07:04: Disabling PlayerBase  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:32:08: Spawned FireFlies x 1
+03/20/2021 02:07:04: Disabling FireArea  character_trigger
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:32:15: Stoped music plains at 6930111
+03/20/2021 02:07:12: Spawned Greydwarf x 3
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:32:20: Spawned Greydwarf_Shaman x 1
+03/20/2021 02:07:12: Spawned Greydwarf_Elite x 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:32:20: Spawned Greydwarf_Shaman x 1
+03/20/2021 02:07:12: Spawned Greydwarf_Shaman x 1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-03/16/2021 21:33:24: Spawned Greydwarf x 3
+03/20/2021 02:07:12: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:12: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:12: Placed piece_groundtorch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:12: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:12: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:12: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:12: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:43: Setting selected recipe 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:43: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:43: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:52: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:52: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:07:56: Spawned Greydwarf_Elite x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:10: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:18: Stoped music plains at 2299889
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:20: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:20: Local player destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:20: tip:$loadscreen_tip09
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:28: Found bed at custom spawn point
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:28: Vis equip model set to 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:28: Resumed music plains at 2299889
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:40: Player -535784242 wants to open Player_tombstone(Clone)   im: -535784242
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:40: Setting selected recipe 31
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:40: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:40: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:50: Setting selected recipe 33
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:50: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:50: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:54: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:54: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:57: Placed piece_groundtorch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:57: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:57: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:57: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:57: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:59: Stoped music plains at 3643610
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:08:59: Resumed music plains at 3643610
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:06: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:06: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:07: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:07: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:08: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:15: Placed iron_grate
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:18: Placed iron_grate
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:27: Stoped music plains at 4877920
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:27: Stoped music home at 6834
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:27: Resumed music plains at 4877920
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:42: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:48: Placed iron_grate
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:51: Placed iron_grate
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:55: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:09:56: Placed stone_wall_2x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:04: Right back item SwordIron
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:15: Stoped music plains at 6977831
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:15: Resumed music home at 6834
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:16: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:21: Stoped music home at 265286
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:21: Resumed music home at 265286
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:28: Stoped music home at 584522
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:28: Resumed music plains at 6977831
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:34: Right back item Hammer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:35: Right back item 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:42: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:46: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:47: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:49: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:49: Stoped music plains at 110944
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:49: Resumed music home at 584522
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:10:51: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:01: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:05: Stoped music home at 1270499
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:05: Resumed music plains at 110944
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:10: Stoped music plains at 344252
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:10: Resumed music home at 1270499
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:37: Stoped music home at 2425569
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:37: Resumed music plains at 344252
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:41: Stoped music plains at 515867
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:41: Resumed music home at 2425569
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:42: Stoped music home at 2467679
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:42: Resumed music plains at 515867
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:43: Stoped music plains at 552290
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:43: Resumed music home at 2467679
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:47: Stoped music home at 2654058
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:11:47: Resumed music plains at 552290
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:03: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:03: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:10: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:12: Possible events:2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:12: Random event set:foresttrolls
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:13: Placed wood_roof_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:15: Spawned Troll x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:15: Spawned Troll x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:12:17: Stoped music plains at 1894638
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:08: Disabling collider_block  blocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:09: Disabling PlayerBase  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:09: Disabling FireArea  character_trigger
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:16: Placed wood_floor_1x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:17: Placed wood_floor_1x1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:22: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:24: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:25: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:27: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:37: Stoped music CombatEventL2 at 3521961
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:13:37: Resumed music plains at 1894638
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:14:23: Stoped music plains at 3902728
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:14:23: Resumed music plains at 3902728
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:25: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:31: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:34: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:37: Placed stone_wall_4x2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:38: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:38: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:38: Dungeon load time 39.899 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:41: Placed stone_pillar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 5174 unused Assets to reduce memory usage. Loaded Objects now: 1458650.
+Total: 1142.270100 ms (FindLiveObjects: 128.256100 ms CreateObjectMapping: 32.115200 ms MarkObjects: 963.497500 ms  DeleteObjects: 18.400900 ms)
+
+03/20/2021 02:15:50: clone 1457
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:53: Saved 609754 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:53: World saved ( 2831.0789ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:57: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:15:58: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:16:23: Placed wood_wall_log
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:16:27: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:16:32: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:16:39: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:16:41: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:16:50: Placed wood_wall_log
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:16:59: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:17:01: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:17:09: Placed wood_wall_log
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:17:16: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:17:18: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:17:26: Placed wood_wall_log
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:01: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:04: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:07: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:10: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:16: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:21: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:45: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:46: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:18:51: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:19:24: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:19:26: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:19:29: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:19:40: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:19:42: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:19:45: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:20:00: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:20:02: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:20:06: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:20:17: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:20:19: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:20:22: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:20:48: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:21:00: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:21:04: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:21:09: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:21:16: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:21:24: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:21:26: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:22:34: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:22:45: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:22:48: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:22:55: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:22:57: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:01: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:11: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:12: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:24: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:31: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:33: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:35: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:41: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:43: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:23:46: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:06: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:13: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:23: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:25: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:39: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:45: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:51: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:55: Spawned Deathsquito x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:24:59: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:05: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:10: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:12: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:15: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:17: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:18: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:23: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:35: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:37: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:41: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:43: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:46: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4098 unused Assets to reduce memory usage. Loaded Objects now: 1460548.
+Total: 1319.582600 ms (FindLiveObjects: 190.101400 ms CreateObjectMapping: 34.599000 ms MarkObjects: 1076.850800 ms  DeleteObjects: 18.030700 ms)
+
+03/20/2021 02:25:55: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:25:57: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:26:01: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:26:05: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:26:07: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:26:26: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:26:32: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:26:41: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:26:46: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:26:51: Placed wood_pole_log
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:00: Placed wood_pole_log
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:13: Placed wood_beam_26
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:16: Placed wood_beam_26
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:32: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:34: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:42: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:44: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:47: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:49: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:51: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:54: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:27:58: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:13: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:17: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:19: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:20: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:22: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:27: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:30: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:33: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:35: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:37: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:28:41: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:10: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:13: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:14: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:16: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:20: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:21: Stoped music plains at 4507482
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:21: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:23: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:30: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:33: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:34: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:42: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:44: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:44: Spawned Greydwarf x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:44: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:47: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:52: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:53: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:56: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:58: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:29:59: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:07: Resumed music plains at 4507482
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:08: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:08: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:15: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:17: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:38: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:41: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:48: Spawned Goblin x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:49: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:30:53: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:12: Spawned Greydwarf_Elite x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:15: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:16: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:18: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:20: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:25: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:27: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:30: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:31:33: Placed wood_stair
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:32:04: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:32:08: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:32:15: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:32:24: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:32:28: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:32:30: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:32:39: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:32:55: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:33:12: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:33:26: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:33:31: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:33:43: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:33:50: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:33:53: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:33:56: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:33:56: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:34:03: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:34:17: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:34:19: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:34:20: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:34:22: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:34:51: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:34:53: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:11: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:15: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:23: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:31: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:32: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:36: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:41: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:42: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:46: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:48: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 5683 unused Assets to reduce memory usage. Loaded Objects now: 1463491.
+Total: 1333.650800 ms (FindLiveObjects: 191.145800 ms CreateObjectMapping: 35.695500 ms MarkObjects: 1083.324300 ms  DeleteObjects: 23.484500 ms)
+
+03/20/2021 02:35:54: clone 1397
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:57: Saved 609885 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:57: World saved ( 3127.2357ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:35:59: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:36:04: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:36:06: Placed wood_pole_log_4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:36:07: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:36:30: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:36:33: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:36:47: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:36:48: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:07: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:11: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:13: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:15: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:17: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:19: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:28: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:29: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:32: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:34: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:52: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:37:55: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:04: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:10: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:14: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:19: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:22: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:24: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:25: Stoped music plains at 3072985
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:36: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:42: Placed wood_wall_log_4x0.5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:38:59: Resumed music plains at 3072985
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:02: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:05: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:06: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:09: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:15: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:17: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:18: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:21: Placed wood_wall_roof_top_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:39:50: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:00: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:04: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:06: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:15: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:16: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:25: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:28: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:30: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:32: Placed wood_beam_45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:48: Placed wood_floor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:51: Placed wood_wall_half
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:53: Setting selected recipe 31
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:54: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:54: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:40:57: Placed wood_wall_half
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:41:00: Placed wood_wall_half
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:41:01: Placed wood_wall_half
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:41:03: Placed wood_wall_half
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:41:05: Placed wood_wall_half
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:41:47: Spawned Lox x 3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:09: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:15: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:15: Dungeon loaded 32
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:15: Dungeon load time 52.8661 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:15: Spawned Deer x 2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:19: Right back item SwordIron
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:24: Stoped music plains at 4311697
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:26: Spawned Seagal x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:30: Stoped music home at 241597
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:30: Resumed music plains at 4311697
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:47: UI Group status changed MenuRoot = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:48: UI Group status changed MenuRoot = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:49: Game - OnApplicationQuit
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:50: ZNet Shutdown
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:52: clone 1509
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:55: Saved 609911 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:55: World saved ( 3336.1699ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:55: Sending disconnect msg
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:58: ZNet OnDestroy
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:58: Net scene destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:58: Steam manager on destroy
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+03/20/2021 02:42:59: Local player destroyed
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
